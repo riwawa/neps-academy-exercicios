@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/riwawa/Documents/projetos/nepsacademy/output/ibm2'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _getMinOperations, symObjAddr: 0x0, symBinAddr: 0x100003408, symSize: 0x438 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _getMinOperations, symObjAddr: 0x0, symBinAddr: 0x100003408, symSize: 0x438 }
+  - { offsetInCU: 0x12D, offset: 0x12D, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x438, symBinAddr: 0x100003840, symSize: 0x174 }
+  - { offsetInCU: 0x20B, offset: 0x20B, size: 0x8, addend: 0x0, symName: _parse_int, symObjAddr: 0x5AC, symBinAddr: 0x1000039B4, symSize: 0x70 }
+  - { offsetInCU: 0x24F, offset: 0x24F, size: 0x8, addend: 0x0, symName: _ltrim, symObjAddr: 0x61C, symBinAddr: 0x100003A24, symSize: 0xC8 }
+  - { offsetInCU: 0x277, offset: 0x277, size: 0x8, addend: 0x0, symName: _rtrim, symObjAddr: 0x6E4, symBinAddr: 0x100003AEC, symSize: 0xF0 }
+  - { offsetInCU: 0x2AD, offset: 0x2AD, size: 0x8, addend: 0x0, symName: _readline, symObjAddr: 0x7D4, symBinAddr: 0x100003BDC, symSize: 0x1C4 }
+...
